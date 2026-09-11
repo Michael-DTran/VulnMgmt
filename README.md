@@ -40,7 +40,6 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 - [First Cycle Remediation Effort Summary](#first-cycle-remediation-effort-summary)
 
 ---
-@@ -49,9 +52,9 @@
 
 In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
 
@@ -49,7 +48,6 @@ In this phase, a meeting with the server team introduces the draft Vulnerability
 
 ---
 
-@@ -69,19 +72,20 @@
 
 The team collaborates with the server team to initiate scheduled credential scans. A compromise is reached to scan a single server first, monitoring resource impact, and using just-in-time Active Directory credentials for secure, controlled access.  
 
@@ -96,7 +94,6 @@ The server team received remediation scripts and scan reports to address key vul
 [Remediation Email](https://github.com/joshmadakor1/lognpacific-public/blob/main/misc/remediation-email.md)
 
 ---
-@@ -113,69 +117,83 @@
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
 
@@ -192,7 +189,6 @@ The remediation process reduced total vulnerabilities by 81%, from 26 to 5. Crit
 
 [Remediation Data](https://docs.google.com/spreadsheets/d/1FTtFfZYmFsNLU6pm8nTzsKyKE-d2ftXzX_DPwcnFNfA/edit?gid=0#gid=0)
 
-@@ -194,4 +212,3 @@
 - **Ongoing Communication with Stakeholders**: Maintain open communication with teams responsible for remediation, ensuring efficient coordination.
 
 By maintaining an active vulnerability management process, organizations can stay ahead of emerging threats and ensure long-term security resilience.
