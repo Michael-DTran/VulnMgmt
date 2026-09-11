@@ -1,4 +1,4 @@
-# VulnMgmt#
+# VulnMgmt #
 
 # Vulnerability Management Program Implementation
 
@@ -7,7 +7,7 @@ In this project, we simulate the implementation of a comprehensive vulnerability
 _**Inception State:**_ the organization has no existing policy or vulnerability management practices in place.
 
 _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secured, and a full cycle of organization-wide vulnerability remediation is successfully completed.
-
+ 
 ---
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/cfc5dbcf-3fcb-4a71-9c13-2a49f8bab3e6">
