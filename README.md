@@ -47,9 +47,6 @@ In this phase, a meeting with the server team introduces the draft Vulnerability
 <a href='https://youtu.be/8g6uafc6LjE' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/549d21f4-26c2-412d-9117-d7b6835aedbf"></a>
 <a href='https://www.youtube.com/watch?v=cFDgyuvhBlY' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/549d21f4-26c2-412d-9117-d7b6835aedbf"></a>
 
-[YouTube Video: Stakeholder Policy Buy-In Meeting](https://youtu.be/8g6uafc6LjE)
-[YouTube Video: Stakeholder Policy Buy-In Meeting](https://www.youtube.com/watch?v=cFDgyuvhBlY)
-
 ---
 
 @@ -69,19 +72,20 @@
@@ -58,9 +55,6 @@ The team collaborates with the server team to initiate scheduled credential scan
 
 <a href='https://youtu.be/lg068WA4SKM' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/31fe8d0f-636b-475b-8d5a-a2795c183f86"></a>
 <a href='https://www.youtube.com/watch?v=ZEw1ZCOlvHY' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/31fe8d0f-636b-475b-8d5a-a2795c183f86"></a>
-
-[YouTube Video: Initial Discovery Scan](https://youtu.be/lg068WA4SKM)
-[YouTube Video: Initial Discovery Scan](https://www.youtube.com/watch?v=ZEw1ZCOlvHY)
 
 ---
 
@@ -77,7 +71,6 @@ In this phase, an insecure Windows Server is provisioned to simulate the server 
 
 
 
-@@ -92,19 +96,19 @@
 
 We assessed vulnerabilities and established a remediation prioritization strategy based on ease of remediation and impact. The following priorities were set:
 
@@ -107,24 +100,11 @@ The server team received remediation scripts and scan reports to address key vul
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
 
-<a href="https://youtu.be/0tjjFewxSNw" target="_"><img width="600" src="https://github.com/user-attachments/assets/03027c66-5f7c-42d0-b6dd-09d053c040b1"/></a>
-<a href="https://www.youtube.com/watch?v=JqIxiWwDDkA" target="_"><img width="600" src="https://github.com/user-attachments/assets/03027c66-5f7c-42d0-b6dd-09d053c040b1"/></a>
-
-[Meeting Video](https://youtu.be/0tjjFewxSNw)
-[Meeting Video](https://www.youtube.com/watch?v=JqIxiWwDDkA)
-
 ---
 
 ### Step 9) Mock CAB Meeting: Implementing Remediations
 
 The Change Control Board (CAB) reviewed and approved the plan to remove insecure protocols and cipher suites. The plan included a rollback script and a tiered deployment approach.  
-
-<a href="https://youtu.be/zOFPkTa9kY8" target="_"><img width="600" src="https://github.com/user-attachments/assets/07164e63-fbce-471a-b469-29a6d41b7bb8"/></a>
-<a href="https://www.youtube.com/watch?v=enqOjUV0-7k" target="_"><img width="600" src="https://github.com/user-attachments/assets/07164e63-fbce-471a-b469-29a6d41b7bb8"/></a>
-
-[Meeting Video](https://youtu.be/zOFPkTa9kY8)
-[Meeting Video](https://www.youtube.com/watch?v=enqOjUV0-7k)
-
 ---
 ### Step 10 ) Remediation Effort
 
