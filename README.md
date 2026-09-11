@@ -24,7 +24,6 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 
 - [Vulnerability Management Policy Draft Creation](#vulnerability-management-policy-draft-creation)
 - [Mock Meeting: Policy Buy-In (Stakeholders)](#step-2-mock-meeting-policy-buy-in-stakeholders)
-@@ -30,10 +31,12 @@
 - [Distributing Remediations to Remediation Teams](#step-7-distributing-remediations-to-remediation-teams)
 - [Mock Meeting: Post-Initial Discovery Scan (Server Team)](#step-8-mock-meeting-post-initial-discovery-scan-server-team)
 - [Mock CAB Meeting: Implementing Remediations](#step-9-mock-cab-meeting-implementing-remediations)
